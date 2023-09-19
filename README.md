@@ -1,4 +1,4 @@
-pippython -m venv venv #venv adlı bir sanal ortam kurduk
+pip python -m venv venv #venv adlı bir sanal ortam kurduk
 
 pip install SpeechRecognition
 
