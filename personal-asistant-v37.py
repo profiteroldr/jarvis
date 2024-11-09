@@ -1,4 +1,5 @@
-# Fonksiyon Yapılar Düzenlendi. Referans Kodlar.
+# Fonksiyon Yapılar Düzenlendi. Referans Kodlar. 
+#Fonksiyonların (def'lerin) yerleri değiştirilebilir. Sistemin Çalışmasını engellemiyor.
 import os
 import random
 from turtle import back
